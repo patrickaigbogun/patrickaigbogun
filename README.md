@@ -1,29 +1,25 @@
-
 # 👋 Hi, I'm Patrick Aigbogun
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating impactful, user-centric web applications. My work spans across various domains, including e-commerce, real-time communication, and file management tools. I love solving complex problems with clean, maintainable code while experimenting with the latest technologies.
+I'm a software developer passionate about building tools and applications that drive real business value. I focus on creating scalable architectures, streamlining operations, and delivering user-centric web platforms that solve tangible problems and impact the bottom line.
 
-## 🔧 Technologies & Tools
-- **Languages**: TypeScript, JavaScript, HTML, CSS
+## 🚀 What I'm Building
+
+Here are some of my recent projects focused on operational efficiency, revenue growth, and scalable infrastructure:
+
+- **[Dex Framework](https://github.com/patrickaigbogun/dex-framework)**: Building robust foundational tools to accelerate development cycles, reduce time-to-market, and maintain code quality across applications.
+- **[Gasnow (API & Web)](https://github.com/patrickaigbogun/gasnow-web)**: A scalable full-stack solution designed to deliver reliable services and improve operational visibility.
+- **[Pipelyn](https://github.com/patrickaigbogun/pipelyn)**: Streamlining workflows and data pipelines to enhance organizational productivity and reduce manual bottlenecks.
+- **[E-Commerce Starterkit](https://github.com/patrickaigbogun/ecommerce-starterkit)**: A production-ready Next.js e-commerce foundation designed to launch storefronts faster. Includes built-in checkout and cart functionality to directly drive revenue.
+- **Secure Document Infrastructure**: Modifying and self-hosting enterprise solutions like [Dexx-Sign](https://github.com/patrickaigbogun/dexx-sign) (Documenso fork) and [Docuseal](https://github.com/patrickaigbogun/docuseal-self-host) to ensure strict data privacy compliance and significantly reduce third-party SaaS overhead.
+
+## 🔧 Core Technologies
+- **Languages**: TypeScript, JavaScript, Go, HTML, CSS
 - **Frameworks**: Next.js, React, Laravel
 - **Databases**: MySQL, MongoDB
-- **Tools**: Sanity CMS, Shopify, Tailwind CSS, Git, Phosphor Icons
-
-## 🚀 Current Projects
-- **Toolin**: A suite of web tools, including the [Cabinet Tool](https://github.com/patrickaigbogun/cabinet-tool), designed for file uploading and sharing.
-- **Real-Time Messaging App**: A secure, privacy-focused messaging platform with multimedia support and end-to-end encryption.
-- **E-Commerce Platform**: Built on a Shopify partner account, offering full functionality for building scalable online stores.
-
-## 📚 Open Source Contributions
-I actively contribute to the open-source community and collaborate on various projects that solve real-world problems, focusing on improving developer experiences and security features.
-
-## 📈 My Approach
-- **Security-First**: I prioritize security and privacy in my projects, ensuring data encryption and safeguarding user information.
-- **User-Centered Design**: I aim to build intuitive interfaces that enhance the user experience.
-- **Continuous Learning**: I’m constantly exploring new frameworks, methodologies, and tools to refine my skills and knowledge.
+- **Tools & Ecosystems**: Sanity CMS, Shopify, Tailwind CSS, Git
 
 ## 💬 Let's Connect!
-Feel free to reach out to discuss collaborations, new opportunities, or just to share ideas!
+I'm always open to discussing new opportunities, collaborations, or how we can leverage technology to solve business challenges. 
 
 - [LinkedIn](https://www.linkedin.com/in/patrick-aigbogun/)
 - [Twitter/X](https://x.com/patrickaigbogun)
