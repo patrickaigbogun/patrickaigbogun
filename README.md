@@ -13,7 +13,7 @@ Here are some of my recent projects focused on operational efficiency, revenue g
 - **Secure Document Infrastructure**: Modifying and self-hosting enterprise solutions like [Dexx-Sign](https://github.com/patrickaigbogun/dexx-sign) (Documenso fork) and [Docuseal](https://github.com/patrickaigbogun/docuseal-self-host) to ensure strict data privacy compliance and significantly reduce third-party SaaS overhead.
 
 ## 🔧 Core Technologies
-- **Languages**: TypeScript, JavaScript, Go, HTML, CSS
+- **Languages**: TypeScript, JavaScript, Go, HTML, CSS, Python, PHP
 - **Frameworks**: Next.js, React, Laravel
 - **Databases**: MySQL, MongoDB
 - **Tools & Ecosystems**: Sanity CMS, Shopify, Tailwind CSS, Git
