@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Aigbogun
 
-I'm a software developer passionate about building tools and applications that drive real business value. I focus on creating scalable architectures, streamlining operations, and delivering user-centric web platforms that solve tangible problems and impact the bottom line.
+I build tools and applications that drive real business value. I focus on creating scalable architectures, streamlining operations, and delivering user-centric web platforms that solve tangible problems and impact the bottom line.
 
 ## 🚀 What I'm Building
 
